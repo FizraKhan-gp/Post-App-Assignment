@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtZCynyY_klY7DQViPUZy48sOQe66lla2n6vVloi5sg_0NLFUt1Jv8UFu&s=10);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.bgColor, .swal2-confirm , .postBtn, .deleteBtn, #editBtn{
+background-color: #d1478aa8;
+}
+.bgColor:hover, .swal2-confirm:hover, .postBtn:hover, .deleteBtn:hover,  #editBtn:hover{
+background-color:#d1478aa8;
+
+}
